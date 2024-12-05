@@ -32,7 +32,7 @@ def calculate_conditional_multiplications(file_path):
 
 
 # Path to the input file
-file_path = "day3_prob2_input.txt"
+file_path = "inputs/day3_prob2_input.txt"
 
 # Calculate and print the result
 result = calculate_conditional_multiplications(file_path)

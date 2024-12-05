@@ -19,7 +19,7 @@ def go(grid):
 
 
 def main():
-    grid = [line.strip() for line in open("D4p2_input.txt")]
+    grid = [line.strip() for line in open("inputs/D4p2_input.txt")]
     result = 0
     for _ in range(4):
         result += go(grid)

@@ -35,7 +35,7 @@ def count_safe_reports_with_dampener(file_path):
 
 
 # Path to the input file
-file_path = "day2_prob2_input.txt"
+file_path = "inputs/day2_prob2_input.txt"
 
 # Count and print the number of safe reports considering the Problem Dampener
 safe_reports_with_dampener = count_safe_reports_with_dampener(file_path)

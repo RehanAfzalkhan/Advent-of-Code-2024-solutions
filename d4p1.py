@@ -38,7 +38,7 @@ def read_grid(file_path):
 
 
 # Path to the input file
-file_path = "D4p1_input.txt"
+file_path = "inputs/D4p1_input.txt"
 
 # Find and print the total occurrences of "XMAS"
 grid = read_grid(file_path)

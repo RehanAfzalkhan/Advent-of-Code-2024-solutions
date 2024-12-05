@@ -34,7 +34,7 @@ def calculate_total_distance(left_list, right_list):
 
 def main():
     # Read input file
-    file_path = "input.txt"
+    file_path = "inputs/input.txt"
     left_list, right_list = read_input(file_path)
     
     if left_list is None or right_list is None:
